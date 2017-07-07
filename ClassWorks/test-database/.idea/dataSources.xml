@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ABRASHENKOV_DB@localhost" uuid="b6a52e8f-1c9d-4d10-8f9b-bd9c433c38a5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ABRASHENKOV_DB</jdbc-url>
+    </data-source>
+  </component>
+</project>
